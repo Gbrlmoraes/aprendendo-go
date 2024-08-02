@@ -5,3 +5,4 @@
 
 ## Fontes:
 - [Tour oficial pela linguagem em português](https://go-tour-br.appspot.com/tour/list)
+- [Githyb pages do Téo Me Why](https://teomewhy.github.io/teo-me-to-go/index.html)
